@@ -1,0 +1,28 @@
+{
+  "name": "trpg-version",
+  "version": "1.0.0",
+  "description": "version info and update component for trpg",
+  "main": "index.js",
+  "dependencies": {
+    "debug": "^3.2.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TRPGEngine/Version.git"
+  },
+  "keywords": [
+    "moonrailgun",
+    "trpg",
+    "version"
+  ],
+  "author": "moonrailgun",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TRPGEngine/Version/issues"
+  },
+  "homepage": "https://github.com/TRPGEngine/Version#readme"
+}
